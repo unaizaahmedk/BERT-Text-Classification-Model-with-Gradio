@@ -1,5 +1,3 @@
-# BERT-Text-Classification-Model-with-Gradio
-
 # BERT Text Classification with Gradio
 
 This project demonstrates how to use a pre-trained BERT model for text classification using the `transformers` library by Hugging Face and create a user-friendly interface using Gradio. The model classifies text into positive or negative sentiments.
